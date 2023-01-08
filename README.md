@@ -50,6 +50,9 @@ Save and do
 [op@rhel ~] spicetify apply
 ```
 
+<p align="center"> <img src="images/10.png"> </p>
+
+
 ## Install Spicetify Themes and Extensions
 
 You can install it with 
@@ -79,6 +82,8 @@ Open Spotify , on the left side should now appears an app called `Marketplace`
 
 Browse it and install whatever gets your interest.
 
+<p align="center"> <img src="images/1.png"> </p>
+
 
 ## Appling Extensions and Custom apps
 At this point you should have apps in `/home/op/.config/spicetify/CustomApps` . If not, get some frome here
@@ -105,4 +110,10 @@ Apply Apps with
 ```
 
 My Best Apps & Extensions
-#### lyrics-plus fullAppDisplay.js popupLyrics.js shuffle+.jsbookmark.js loopyLoop.js        
+#### lyrics-plus fullAppDisplay.js popupLyrics.js shuffle+.jsbookmark.js loopyLoop.js      
+
+<p align="center"> <img src="images/4.png"> </p>
+
+<p align="center"> <img src="images/5.png"> </p>
+
+<p align="center"> <img src="images/9.png"> </p>
